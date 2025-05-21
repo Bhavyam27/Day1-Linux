@@ -6,6 +6,6 @@ Welcome to my Linux learning journey! I’m practicing daily to strengthen my fo
 | 02  | Permissions |chmod, chown,chgrp|
 | 03  | File Mgmt | zip, unzip, gunzip, tar |
 
-Below is the screenshot of linux commands which been executed in the Ubuntu platform.
+Below is the screenshot of linux commands which been executed in the Ubuntu platform on Day1.
 
-![image](https://github.com/user-attachments/assets/d1f242b3-bf65-489c-93d1-152b48f1557d)
+![image](https://github.com/user-attachments/assets/d1f242b3-bf65-489c-93d1-152b48f1557
