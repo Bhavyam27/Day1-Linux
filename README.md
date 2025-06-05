@@ -1,5 +1,5 @@
 # Day1-Linux
-Welcome to my Linux learning journey! I’m practicing daily to strengthen my foundational skills in Linux, Bash scripting, and DevOps tools.
+I’m practicing daily to strengthen my foundational skills in Linux, Bash scripting, and DevOps tools.
 | Day | Topic | Key Learnings |
 |-----|-------|----------------|
 | 01  | Basics | mkdir, ls , pwd, touch, clear, rm, rm dir, echo, cat, zcat |
